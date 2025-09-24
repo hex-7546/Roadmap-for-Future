@@ -1,4 +1,6 @@
-# Roadmap-for-Future
+# Roadmap for Future
+
+# Systems Programming and Distributed System 💻⚙️
 
 This repo contains the roadmap for my future in computer science. I've chosen <b>SYSTEMS PROGRAMMING</b> and <b>DISTRIBUTED SYSTEMS</b>. I've chosen this because of my interest in hardware, cutting edge technologies and scalable infrastructures
 
@@ -60,11 +62,11 @@ It covers the following core concepts of computer sciemce:
 
 <br>
 
-### Small Projects:
+## Small Projects:
 - Building an HTTP server
 - Implementing basic networking protocols
 
-### Large Projects (will choose one of them)
+## Large Projects (will choose one of them)
 - Building scalable backend infrastructure
 - High performance database engines
 - Scientific computing or parallel processing
